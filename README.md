@@ -1,2 +1,2 @@
 # Sili
-This is my first Game. do you have some tips for me?
+I'm a beginner programer in pygame.
